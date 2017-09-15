@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Entries</string>
+    <string name="empty_view_title_text">Your databe is currently empty... </string>
+    <string name="empty_view_subtitle_text">Get started by adding items to your database</string>
+    <string name="editor_activity_title_new_item">Add an Item</string>
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_insert_successful">Entry saved</string>
+    <string name="editor_insert_failed">Error with saving the new data</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_update_successful">update succesful</string>
+    <string name="editor_update_failed">update failed</string>
+    <string name="delete_dialog_msg">delete</string>
+    <string name="editor_delete_failed">delete failed</string>
+    <string name="editor_delete_successful">delete successful</string>
+    <string name="quantity_setting_text">Quantity =</string>
+    <string name="name_of_product">The Name of Product</string>
+    <string name="price_of_product">Price of the Product</string>
+    <string name="price_per_one">Price per one, EURO</string>
+    <string name="details">Details</string>
+    <string name="quantity">Quantity</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+    <string name="order">Order</string>
+    <string name="price">Price</string>
+    <string name="sell">Sell</string>
+    <string name="give_full_info">Please, give full info</string>
+
+</resources>
